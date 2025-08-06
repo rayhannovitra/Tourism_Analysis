@@ -60,17 +60,3 @@ This interactive dashboard was developed using **Power BI** and presents key met
 * Visual representation of **tourism growth trends** across major cities
 * Identification of **top-performing cities** based on visitor count and duration
 * **Comparative analysis** between cities for data-driven tourism strategies
-
----
-
-### **How to Use**
-
-1. Open the **Power BI file**
-2. Navigate through the dashboard using filters and interactive elements
-3. Analyze key metrics and visualizations to gain insights
-
----
-
-### **Contact**
-
-For any questions or collaborations, feel free to reach out via \[LinkedIn](https://linkedin.com/in/rayhannvt) or email at rayhannvt@gmail.com.
